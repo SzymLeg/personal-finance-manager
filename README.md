@@ -1,5 +1,7 @@
 # 💰 Personal Finance Manager
 
+**Live Demo:** [https://personal-finance-manager-szymleg.streamlit.app/](https://personal-finance-manager-szymleg.streamlit.app/)
+
 A simple web application built with **Python**, **Streamlit**, and **Plotly** for managing personal finances. The app allows you to upload CSV files containing your transaction history, categorize your expenses, and visualize your financial data.
 
 ## 🚀 Features
