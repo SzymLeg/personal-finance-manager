@@ -51,6 +51,9 @@ personal-finance-manager/
 └── README.md         # Project documentation
 ```
 
+## 🛡️ License
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
 ## ℹ️ About Me
 
 Hi there! I'm **Szymon Legierski**, also known as **SzymLeg**. I'm an IT student and passionate about Data Engineering!
