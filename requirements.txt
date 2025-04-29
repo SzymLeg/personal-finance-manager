@@ -1,0 +1,5 @@
+# Dependencies for the Personal Finance Manager
+streamlit
+plotly
+pandas
+numpy
