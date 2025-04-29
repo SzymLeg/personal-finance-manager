@@ -49,6 +49,7 @@ personal-finance-manager/
 ├── categories.json   # Stores the categories for transactions
 ├── requirements.txt  # Python dependencies
 └── README.md         # Project documentation
+```
 
 ## ℹ️ About Me
 
